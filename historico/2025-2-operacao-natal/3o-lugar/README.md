@@ -51,7 +51,7 @@ Seu README de perfil é aquele que aparece na página inicial do seu perfil no G
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/racoelhoo/toalha.dev/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" alt="3º Lugar - Operação Natal 2025/2" width="300"/>
+  <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" alt="3º Lugar - Operação Natal 2025/2" width="300"/>
 
   **🥉 3º Lugar - Operação Natal 2025/2 | toalha.dev**
 </div>
@@ -89,7 +89,7 @@ Se você ganhar mais badges no futuro, coloque todas lado a lado:
 ## 🏆 Hall da Fama
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/racoelhoo/toalha.dev/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" width="200"/>
+  <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" width="200"/>
   <img src="URL-DA-PROXIMA-BADGE" width="200"/>
   <img src="URL-DA-PROXIMA-BADGE" width="200"/>
 </div>
@@ -103,7 +103,7 @@ Conte a história da sua conquista:
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/racoelhoo/toalha.dev/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" width="300"/>
+  <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" width="300"/>
 </div>
 
 ### 🎄 3º Lugar - Operação Natal 2025/2
